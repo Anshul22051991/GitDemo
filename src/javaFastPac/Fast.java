@@ -7,6 +7,7 @@ public class Fast {
 		System.out.println("Hello1");
 		System.out.print("Hello3");
 	    System.out.println("Hello4");
+	    System.out.println("Hello6");
 	}
 
 }
